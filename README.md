@@ -16,7 +16,7 @@ El programa muestra un menú interactivo que se repite hasta que el usuario elig
 2. Listar contactos
 3. Buscar contacto
 4. Eliminar contacto
-5. Salir
+0. Salir
 ```
 
 - **Añadir:** pide nombre, teléfono y correo, y lo guarda en la lista.

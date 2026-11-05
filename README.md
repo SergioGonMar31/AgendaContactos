@@ -38,7 +38,7 @@ El programa muestra un menú interactivo que se repite hasta que el usuario elig
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/UD01_Actividad07_AgendaContactos.git
+   git clone https://github.com/SergioGonMar31/AgendaContactos
    ```
 2. Abrirlo en **IntelliJ IDEA**.
 3. Ejecutar la función `main` del archivo `Main.kt`.
